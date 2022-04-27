@@ -1,8 +1,9 @@
 const express = require('express')
+require('dotenv').config();
 
 const app = express()
 
-app.use(express.urlencoded({extended: true}))
+// app.use(express.urlencoded({extended: true}))
 
 app.get('/', (req, res) => {
   return res.json({
@@ -11,6 +12,8 @@ app.get('/', (req, res) => {
   })
 })
 
-app.listen(5000, ()=> {
-  console.log('App running on port 5000');
+const { APP_PORT } = process.env;
+
+app.listen(APP_PORT, ()=> {
+  console.log(`Backend running on port ${APP_PORT}`);
 })
