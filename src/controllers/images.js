@@ -1,10 +1,8 @@
-const getImages = (req, res) => {
-  return res.json({
-    success: true,
-    message: 'list of images from API'
-  })
+const getHelper = require('../helpers/get');
 
-}
+const getImages = (req, res) => {
+  getHelper(req, res);
+};
 
 module.exports = {
   getImages,
