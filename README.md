@@ -72,11 +72,19 @@ Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 
 <br>
 
-## 💻 Deploy Backend & Repo Frontend
+## 💻 Frontend
 
-Deploy Backend : https://aia-backend.herokuapp.com/
+Frontend : https://github.com/asherginting/aia-test-frontend
 <br>
-Repo Frontend : https://github.com/asherginting/aia-test-frontend
+Deploy Frontend : https://aia-frontend.herokuapp.com
+
+<br>
+
+## 💻 Backend
+
+Backend : https://github.com/asherginting/aia-test-backend
+<br>
+Deploy Backend : https://aia-backend.herokuapp.com
 
 <br>
 
