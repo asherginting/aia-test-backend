@@ -2,7 +2,7 @@ const axios = require('axios');
 const { APP_URL } = process.env;
 
 const get = async (req, res) => {
-  let { tags, limit = 5, currentPage = 1 } = req.query
+  let { tags, limit = 4, currentPage = 1 } = req.query
   currentPage = +currentPage
   limit = +limit
   const startAt = currentPage === 1 ? 0 : limit * (currentPage - 1) 
