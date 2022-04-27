@@ -37,6 +37,8 @@ npm install
 Runs the app default in the development mode.\
 Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 
+<br>
+
 ## Response
 |       Response       |        Description        |
 | :------------------: | :-----------------------: |
@@ -58,7 +60,7 @@ Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 |    ```tags```     |   keyword search Image    |
 
 
-
+<br>
 
 ## ⛏️ Built Using
 
@@ -68,12 +70,15 @@ Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 
+<br>
 
 ## 💻 Deploy Backend & Repo Frontend
 
 Deploy Backend : https://aia-backend.herokuapp.com/
 <br>
 Repo Frontend : https://github.com/asherginting/aia-test-frontend
+
+<br>
 
 ## ✍️ Authors
 
