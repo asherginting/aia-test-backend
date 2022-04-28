@@ -1,4 +1,4 @@
-<a href="https://aimeos.org/">
+<a href="https://www.aia.com.sg/en/index.html">
     <img src="https://user-images.githubusercontent.com/39787908/165537085-22b9b71d-16e8-4fce-8305-0c6a2abfff35.png" height="80" alt="AIA-Logo" title="AIA" align="right" />
 </a>
 
@@ -8,7 +8,7 @@ Simple Coding Test for AIA Nodejs Fullstack Engineer
 
 
 
-[![Postman](https://user-images.githubusercontent.com/39787908/165538995-8a6cb8d6-2be5-4b08-8a9c-c56411062d8e.png)](#)
+[![img](https://user-images.githubusercontent.com/39787908/165538995-8a6cb8d6-2be5-4b08-8a9c-c56411062d8e.png)](#)
 
 ## ⌛️ Installation
 
